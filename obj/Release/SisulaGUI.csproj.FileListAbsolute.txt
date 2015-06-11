@@ -1,0 +1,10 @@
+C:\SisulaGUI\SisulaGUI\bin\Release\SisulaGUI.exe.config
+C:\SisulaGUI\SisulaGUI\bin\Release\SisulaGUI.exe
+C:\SisulaGUI\SisulaGUI\bin\Release\SisulaGUI.pdb
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.Form1.resources
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.Properties.Resources.resources
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.RunAll(ParaConfig).resources
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.SourceXML1.resources
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.csproj.GenerateResource.Cache
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.exe
+C:\SisulaGUI\SisulaGUI\obj\Release\SisulaGUI.pdb

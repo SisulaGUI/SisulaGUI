@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="%Source%" codepage="ACP" datafiletype="char" fieldterminator="\r\n" split="regex">
+  <part name="TestPart" nulls="">
+    <term name="ID" delimiter=";" format="int" pattern="" />
+    <term name="Name" delimiter=";" format="nvarchar(max)" pattern="" />
+    <term name="Type" delimiter=";" format="nvarchar(20)" pattern="" />SQL?</part>
+</source>

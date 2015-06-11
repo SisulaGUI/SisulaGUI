@@ -1,0 +1,11 @@
+C:\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.exe.config
+C:\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.exe
+C:\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.pdb
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.csprojResolveAssemblyReference.cache
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.Form1.resources
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.Properties.Resources.resources
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.RunAll(ParaConfig).resources
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.SourceXML1.resources
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.csproj.GenerateResource.Cache
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.exe
+C:\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.pdb
